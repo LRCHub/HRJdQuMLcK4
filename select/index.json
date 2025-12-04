@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "magenta",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T16:02:55.024158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magenta Mountain",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Magenta_Mountain_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magenta",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/02_Magenta_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magenta Mountain",
+      "artist": "King Gizzard And The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Magenta_Mountain_King_Gizzard_And_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maria Magenta",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/04_Maria_Magenta_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magenta (Album Version)",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/05_Magenta_(Album_Version)_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magenta Mountain",
+      "artist": "King Gizzard",
+      "has_synced": true,
+      "path": "select/06_Magenta_Mountain_King_Gizzard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magenta Ritual",
+      "artist": "In Mourning",
+      "has_synced": false,
+      "path": "select/07_Magenta_Ritual_In_Mourning.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MAGENTA CA$H (feat. Monna Brutal)",
+      "artist": "Gloria Groove",
+      "has_synced": true,
+      "path": "select/08_MAGENTA_CA$H_(feat._Monna_Brutal)_Gloria_Groove.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magenta Ca$h",
+      "artist": "Gloria Groove",
+      "has_synced": true,
+      "path": "select/09_Magenta_Ca$h_Gloria_Groove.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Old Grey Face - (And the Way of the Magenta)",
+      "artist": "Twin Atlantic",
+      "has_synced": true,
+      "path": "select/10_Old_Grey_Face_-_(And_the_Way_of_the_Magenta)_Twin_Atlantic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "magenta",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_magenta_ナノ.txt"
+    }
+  ]
+}
